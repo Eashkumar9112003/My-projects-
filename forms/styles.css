@@ -1,0 +1,63 @@
+*{
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    font-style: italic;
+    color: tomato;
+    border-radius: 15px 0px 15px 0px;
+    border-collapse: collapse;
+    padding: auto;
+    margin: 10px ;
+    border: 2px solid rgb(255, 162, 0);
+    
+}
+body{
+    background-image:linear-gradient(pink,orange);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#main1{
+    background-color: aqua;
+    font-style: italic;
+    border-radius: 15px 0px 15px 0px;
+    border-collapse: collapse;
+    padding: auto;
+    margin: 10px ;
+    border: 2px solid rgb(247, 131, 237);
+    opacity: 100%;
+
+}
+#main2{
+    background-color: aqua;
+    font-style: italic;
+    border-radius: 15px 0px 15px 0px;
+    border-collapse: collapse;
+    padding: auto;
+    margin: 10px ;
+    border: 2px solid rgba(28, 77, 238, 0.685);
+}
+.main3{
+    box-sizing: border-box;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-right: 1px;
+    border-left: 5px solid orangered;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.personal{
+    color: blueviolet;
+    border: 2px solid orchid;
+    background-color: coral;
+    font: weight 400px;
+
+
+}
+.travel{
+    color: blueviolet;
+    border: 2px solid rgb(223, 20, 81);
+    background-color: rgb(252, 125, 7);
+    font: weight 400px;
+}
